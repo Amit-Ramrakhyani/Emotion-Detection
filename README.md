@@ -46,7 +46,13 @@ emotion_detection/
 git clone https://github.com/Amit-Ramrakhyani/Emotion-Detection.git
 ```
 
-2. Install the required packages:
+2. Change the directory:
+
+```bash
+cd Emotion-Detection
+```
+
+3. Install the required packages:
 
 ```bash
 python3 -m pip install -r requirements.txt
@@ -58,7 +64,7 @@ Alternatively, you can install the required packages manually:
 pip install tensorflow keras opencv-python numpy matplotlib scikit-learn
 ```
 
-3. To run the application, execute the following command:
+4. To run the application, execute the following command:
 
 ```bash
 python3 app.py
