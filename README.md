@@ -19,7 +19,7 @@ emotion_detection/
 │   ├─- validation/
 │   └── test/
 ├── app.py
-├── emotion_detection_model.json
+├── model_architecture.json
 ├── emotion_detection.weights.h5
 ├── model.ipynb
 ├── README.md
