@@ -135,6 +135,20 @@ The model architecture and weights are saved for future use. The saved model is 
 
 A real-time emotion detection system is implemented using OpenCV to capture video from the webcam, detect faces, and predict emotions.
 
+## Results
+
+1. Accuracies: 
+
+   - Training accuracy: 0.75
+   - Validation accuracy: 0.6538461446762085
+   - Test accuracy: 0.5561
+
+2. Losses:
+
+   - Training loss: 0.5528954267501831
+   - Validation loss: 1.1934758424758911
+   - Test loss: 1.2573
+
 ## Conclusion
 
 The project successfully builds and evaluates a CNN model for emotion detection from facial images. The model architecture, training process, and evaluation results are well-documented. Real-time emotion detection is also implemented to demonstrate the practical applicability of the model.
